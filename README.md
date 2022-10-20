@@ -8,7 +8,11 @@
     <p style="font-weight: bold"> A Starter Template which includes complete Medusa Authflow i.e Registration, User Login & Logout</p>
 </div>
 
-> Check the official Medusa docs here - https://docs.medusajs.com/api/store/
+## 🍀 Key Features
+1. This starter template provides authentication workflow out of the box, so you don't have to re-invest your time building it from scratch.
+2. Maintable folder structure and following Medusa's similar code practices.
+3. Currently supporting version [`v.1.5.0`](https://github.com/medusajs/medusa/releases/tag/v1.5.0)
+4. Tailwind CSS integration with Next.js for styling.
 
 ## 👨‍🌾 Contributors
 * [Sanyam Punia](https://github.com/SanyamPunia)
@@ -27,7 +31,7 @@
 
 ## 🔬 Local Setup & Installation
 
-- Start off by installing `medusa` client globally on your system
+1. Start off by installing `medusa` client globally on your system
 
 ```bash
 $ yarn global add @medusajs/medusa-cli
@@ -39,7 +43,7 @@ $ yarn global add @medusajs/medusa-cli
 > - Storefront runs on PORT - 8000
 > - Backend runs on PORT - 9000
 
-- `cd` into each directory and install the dependencies
+2.  `cd` into each directory and install the dependencies
 
 ```bash
 # Backend
@@ -55,7 +59,7 @@ cd storefront
 yarn install
 ```
 
-- The backend server should be running in the background while developing the application!
+3.  The backend server should be running in the background while developing the application!
 
 > ### 👤 Creating a new admin user
 >
@@ -67,7 +71,7 @@ yarn install
 >
 > - This will create a new user which can be used to access the dashboard
 
-- Test the application by running the server, admin and storefront
+4.  Test the application by running the server, admin and storefront
 
 ```bash
 # Backend
@@ -85,15 +89,15 @@ yarn dev
 
 ## 🎯 Overview
 
-- Register Component
+1.  Register Component
 
 ![1](https://user-images.githubusercontent.com/35108041/196891657-55df5526-0992-4272-87d0-49cbc4c9f788.png)
 
-- Login Component
+2.  Login Component
 
 ![2](https://user-images.githubusercontent.com/35108041/196891667-81321565-e09a-4c10-a3a0-5d9fbdaa1678.png)
 
-- Authenticated User (_any protected route_)
+3.  Authenticated User (_any protected route_)
 
 ![3](https://user-images.githubusercontent.com/35108041/196892272-d21582da-8846-459a-b32c-239bd9501632.png)
 
