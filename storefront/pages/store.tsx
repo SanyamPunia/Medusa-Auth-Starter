@@ -5,7 +5,7 @@ import { NextPageWithLayout, PrefetchedPageProps } from "types/global";
 
 const Store: NextPageWithLayout<PrefetchedPageProps> = () => {
   const { checkSession } = useAccount();
-//   const [products, setProducts] = useState([]);
+  const [products, setProducts] = useState([]);
 
   useEffect(() => {
     checkSession();
