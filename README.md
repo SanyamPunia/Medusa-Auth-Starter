@@ -65,9 +65,14 @@ yarn dev
 
 ## 🎯 Overview
 * Register Component
+
 ![1](https://user-images.githubusercontent.com/35108041/196891657-55df5526-0992-4272-87d0-49cbc4c9f788.png)
+
 * Login Component
+
 ![2](https://user-images.githubusercontent.com/35108041/196891667-81321565-e09a-4c10-a3a0-5d9fbdaa1678.png)
+
 * Authenticated User (*any protected route*)
+
 ![3](https://user-images.githubusercontent.com/35108041/196892272-d21582da-8846-459a-b32c-239bd9501632.png)
 
