@@ -5,9 +5,8 @@
     <img src="https://img.shields.io/static/v1?label=Version&message=1.5.0&color=success&style=for-the-badge" alt="v1.5.0">
     <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=success&style=for-the-badge" alt="prs-welcome">
     <img src="https://img.shields.io/static/v1?label=Starter&message=Template&color=success&style=for-the-badge" alt="starter-template">
+    <p style="font-weight: bold"> A Starter Template which includes complete Medusa Authflow i.e Registration, User Login & Logout</p>
 </div>
-
-<p style="font-weight: bold"> A Starter Template which includes complete Medusa Authflow i.e Registration, User Login & Logout</p>
 
 ## 👨‍🌾 Contributors
 * [Sanyam Punia](https://github.com/SanyamPunia)
