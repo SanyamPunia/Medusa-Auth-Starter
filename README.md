@@ -8,11 +8,11 @@
     <p style="font-weight: bold"> A Starter Template which includes complete Medusa Authflow i.e Registration, User Login & Logout</p>
 </div>
 
+> Check the official Medusa docs here - https://docs.medusajs.com/api/store/
+
 ## 👨‍🌾 Contributors
 * [Sanyam Punia](https://github.com/SanyamPunia)
 * [Yash Punia](https://github.com/yash-Punia/)
-
-> Check the official Medusa docs here - https://docs.medusajs.com/api/store/
 
 ## 🌌 Tech Stack
 
