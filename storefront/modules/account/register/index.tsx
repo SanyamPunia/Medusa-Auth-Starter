@@ -71,7 +71,7 @@ const Register = () => {
           <h1 className="mt-5 italic text-gray-500">
             Already a member? Login{" "}
             <span
-              className="text-red-500 cursor-pointer transition hover:text-gray-500"
+              className="text-red-500 cursor-pointer transition hover:text-red-700"
               onClick={() => setIsRegisterVisible(false)}
             >
               here

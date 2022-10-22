@@ -71,7 +71,7 @@ const Login = () => {
           <h1 className="mt-5 italic text-gray-500">
             Not a member? Register{" "}
             <span
-              className="text-red-500 cursor-pointer transition hover:text-gray-500"
+              className="text-red-500 cursor-pointer transition hover:text-red-700"
               onClick={() => setIsViewLogin(false)}
             >
               here
