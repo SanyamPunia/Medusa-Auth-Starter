@@ -14,10 +14,10 @@
 3. Currently supporting version [`v.1.5.0`](https://github.com/medusajs/medusa/releases/tag/v1.5.0)
 4. Tailwind CSS integration with Next.js for styling.
 
-## 👨‍🌾 Contributors
+<!-- ## 👨‍🌾 Contributors
 * [Sanyam Punia](https://github.com/SanyamPunia)
 * [Yash Punia](https://github.com/yash-Punia/)
-
+-->
 ## 🌌 Tech Stack
 
 - [Next.js](https://nextjs.org/) - Frontend Framework
